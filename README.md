@@ -1,1 +1,1 @@
-# error_handling
+proper error handling in Python using structured try–except blocks, multiple exception handling, and custom exceptions to prevent unexpected crashes. The script uses else and finally blocks to separate successful execution . Python’s logging module is used instead of print statements to record errors and execution flow into a log file. Runtime errors are intentionally simulated.
